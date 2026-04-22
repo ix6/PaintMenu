@@ -1,5 +1,4 @@
 ```
-
 Typing in-game chat !paint opens a small menu to create circles wherever you're looking
 This is pretty useful for bhop
 
