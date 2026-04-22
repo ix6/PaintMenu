@@ -1,3 +1,5 @@
+```
+
 Typing in-game chat !paint opens a small menu to create circles wherever you're looking
 This is pretty useful for bhop
 
@@ -10,4 +12,4 @@ Blue = Colour of the circles..
 25 = Size of the circles..
 50 = Size of the circles..
 
-Clear = Clears the circles..
+Clear = Clears the circles..```
